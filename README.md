@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/omadbek-nasirullayev-877a17226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omadbek-nasirullayev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20549543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20549543" height="30" width="40" /></a>
   <a href="https://t.me/nasirullayev_omadbek" target="blank"> 
-<img align="center" src="https://pixabay.com/get/g183b7b12250adc4bc6e95b76f3bc2a9c3874ac035d0265c6ef9c5dc41654eb89987a5fb9a5fd202c99cca4dde0b61e903d5149019ac73449aee56b81a021dd0aae60aa0d386a2c514215a26b9ddab750_1280.png" alt="20549543" height="30" width="40" />
+<img align="center" src="https://pixabay.com/vectors/telegram-app-logo-icon-application-5662082/" alt="20549543" height="30" width="40" />
   
   </a>
 <a href="https://instagram.com/https://instagram.com/omadbek_nasirullayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/omadbek_nasirullayev" height="30" width="40" /></a>
