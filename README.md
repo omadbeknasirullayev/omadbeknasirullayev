@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omadbeknasirullayev" alt="omadbeknasirullayev" /></a> </p>
 
-- 🔭 I’m currently working on **dynamic-erp**
+- 🔭 I’m currently working on **DYNAMIC SOFT company**
 
 - 🌱 I’m currently learning **reactjs**
 
