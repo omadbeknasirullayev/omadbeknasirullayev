@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omadbeknasirullayev" alt="omadbeknasirullayev" /></a> </p>
 
-- 🔭 I’m currently working on **DYNAMIC SOFT company**
+- 🔭 I’m currently working as **FREELANCE**
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **flask**
 
-- 💬 Ask me about **NodeJs Backend Developer with 1.5 year of experience developing and maintaining server-side applications.Experienced in developing RESTful web services, developing APIs, and developing complex data models.Knowledgeable in working with databases such as PostgreSQL, MongoDB, and MySQL. Possesses stronganalytical and problem-solving skills. Committed to delivering quality software solutions in a timely manner.**
+- 💬 Ask me about **NodeJs Backend Developer with 2 year of experience developing and maintaining server-side applications.Experienced in developing RESTful web services, developing APIs, and developing complex data models.Knowledgeable in working with databases such as PostgreSQL, MongoDB, and MySQL. Possesses stronganalytical and problem-solving skills. Committed to delivering quality software solutions in a timely manner.**
 
 - 📫 How to reach me **omadbeknasirullayev4@gmail.com**
 
